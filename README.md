@@ -1,4 +1,17 @@
-# 2026-new-grad-jobs
+# 🎓 2026 New Grad Jobs
+
+> **For Software Engineers, ML & Data Scientists, Product Managers, and Designers**
+
+---
+
+## 📋 Categories
+
+- **💻 Software Engineering** - Full-stack, backend, frontend, and systems engineering roles
+- **🤖 ML & Data Science** - Machine learning, data science, and analytics positions  
+- **📊 Product Management** - Product strategy, roadmap, and user experience roles
+- **🎨 Design** - UX/UI, visual, and product design opportunities
+
+---
 
 
 ### Software Development
