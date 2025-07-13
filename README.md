@@ -1,6 +1,7 @@
 # 🎓 2026 New Grad Jobs
 
 > **For Software Engineers, ML & Data Scientists, Product Managers, and Designers**
+Source: https://newgrad.ai/
 
 ---
 
